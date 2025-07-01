@@ -1,4 +1,4 @@
-# 👋 Hello! Jerimie
+# 👋 Hello! I'm Jerimie
 
 🚀 Fullstack Developer | 🖥️ Vue.js & Laravel Specialist | 💼 Focused on Performance, Security & User-Centered Design
 
