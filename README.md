@@ -35,4 +35,5 @@ With a deep understanding of both client-side and server-side architecture, I sp
 - 📧 Email: jerimieperio23@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/jerimie-perio-4ab5aa314/
 - 🌐 Facebook: https://www.facebook.com/jerimieperio23/
+- 💼 Portfolio: https://www.canva.com/design/DAGxc_g0Clw/33mhxbZT2eijxh1KQ1-e1w/edit?utm_content=DAGxc_g0Clw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
